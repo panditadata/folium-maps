@@ -1,2 +1,0 @@
-# folium-maps
-folium maps
